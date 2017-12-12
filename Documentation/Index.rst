@@ -11,7 +11,7 @@ TYPO3 CMS Services
       doc_core_services
 
 :Version:
-      8 LTS
+      8.7 LTS
 
 :Language:
       en
