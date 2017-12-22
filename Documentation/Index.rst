@@ -3,78 +3,67 @@
 
 .. _start:
 
+.. _Sitemap:
+
+.. _introduction:
+.. _introduction-good-reasons:
+.. _introduction-good-reasons-implementation:
+.. _introduction-good-reasons-extensibility:
+
+.. _using-services:
+.. _using-services-precedence:
+.. _using-services-simple:
+.. _using-services-subtypes:
+.. _using-services-service-chain:
+
+.. _configuration:
+.. _configuration-registration-changes:
+.. _configuration-service-configuration:
+.. _configuration-service-type-configuration:
+
+.. _developer:
+.. _developer-new-service-type:
+.. _developer-implementing:
+.. _developer-implementing-registration:
+.. _developer-implementing-php:
+.. _developer-service-api:
+.. _developer-service-api-implementation:
+.. _developer-service-api-getters:
+.. _developer-service-api-error:
+.. _developer-service-api-general:
+.. _developer-service-api-io-tools:
+.. _developer-service-api-io-input-output:
+.. _developer-service-related-api:
+.. _developer-service-related-api-extension-management-utility:
+.. _developer-service-related-api-general-utility:
+
+.. _authentication:
+.. _authentication-why-services:
+.. _authentication-process:
+.. _authentication-data:
+.. _authentication-api:
+.. _authentication-service-chain:
+.. _authentication-service-development:
+.. _authentication-advanced-options:
+
+
 ==================
 TYPO3 CMS Services
 ==================
 
-:Previous Key:
-      doc_core_services
+.. attention::
 
-:Version:
-      latest (9-dev)
+   This document has been merged into :ref:`TYPO3 Core API <t3coreapi:services>`
+   since core version 9.
 
-:Language:
-      en
+.. rst-class:: horizbuttons-tip-xxl
 
-:Description:
-      Describes the usage and API of services available in TYPO3 CMS.
+- :ref:`This manual has moved <t3coreapi:services>`
 
-:Keywords:
-      services, development, extension, auth, reference, forDevelopers, forAdvanced
-
-:Copyright:
-      2000-2018
-
-:Author:
-      Documentation Team
-
-:Email:
-      documentation@typo3.org
-
-:License:
-      Open Publication License available from `www.opencontent.org/openpub/
-      <http://www.opencontent.org/openpub/>`_
-
-:Rendered:
-      |today|
-
-The content of this document is related to TYPO3,
-
-a GNU/GPL CMS/Framework available from `www.typo3.org
-<https://typo3.org/>`_
+*Older versions*
+(`v8.7 </typo3cms/Typo3ServicesReference/8.7/>`__,
+`v7.6 <typo3cms/Typo3ServicesReference/7.6/>`__):
+Please refer to "Related Links" in the lower left corner of the page.
 
 
-**Official documentation**
 
-This document is included as part of the official TYPO3 documentation.
-It has been approved by the TYPO3 Documentation Team following a peer-
-review process. The reader should expect the information in this
-document to be accurate - please report discrepancies to the
-Documentation Team (documentation@typo3.org). Official documents are
-kept up-to-date to the best of the Documentation Team's abilities.
-
-
-**Core Manual**
-
-This document is a Core Manual. Core Manuals address the built in
-functionality of TYPO3 and are designed to provide the reader with in-
-depth information. Each Core Manual addresses a particular process or
-function and how it is implemented within the TYPO3 source code. These
-may include information on available APIs, specific configuration
-options, etc.
-
-Core Manuals are written as reference manuals. The reader should rely
-on the Table of Contents to identify what particular section will best
-address the task at hand.
-
-
-.. toctree::
-   :hidden:
-
-   Sitemap/Index
-   Introduction/Index
-   UsingServices/Index
-   Configuration/Index
-   Developer/Index
-   Authentication/Index
-   Targets
