@@ -62,7 +62,7 @@ TYPO3 CMS Services
 
 *Older versions*
 (`v8.7 </typo3cms/Typo3ServicesReference/8.7/>`__,
-`v7.6 <typo3cms/Typo3ServicesReference/7.6/>`__):
+`v7.6 </typo3cms/Typo3ServicesReference/7.6/>`__):
 Please refer to "Related Links" in the lower left corner of the page.
 
 
