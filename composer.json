@@ -1,0 +1,9 @@
+{
+    "name": "typo3/reference-services",
+    "type": "typo3-cms-documentation",
+    "description": "Describes the usage and API of services available in TYPO3 CMS.",
+    "license": "OPL-1.0",
+    "require": {
+      "typo3/cms-core": "^7.6"
+    }
+}
