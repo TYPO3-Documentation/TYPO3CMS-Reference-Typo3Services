@@ -1,4 +1,4 @@
-.. include:: ../../Includes.txt
+.. include:: /Includes.rst.txt
 
 
 .. _using-services-simple:
@@ -39,4 +39,4 @@ same code run, the stored instance will be returned instead of a new
 one. More details in :ref:`Service API <developer-service-api>`.
 
 If several services are available, the one with the highest priority
-(or quality if priority are equals) will be used.
+(or quality if priority are equal) will be used.
