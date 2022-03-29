@@ -1,5 +1,4 @@
-.. include:: Includes.txt
-
+.. include:: /Includes.rst.txt
 
 .. _start:
 
@@ -46,24 +45,32 @@
 .. _authentication-service-development:
 .. _authentication-advanced-options:
 
-
 ==================
 TYPO3 CMS Services
 ==================
 
 .. attention::
 
-   This document has been merged into :ref:`TYPO3 Core API <t3coreapi:services>`
+   This document has been merged into :ref:`TYPO3 Explained <t3coreapi:services>`
    since core version 9.
 
-.. rst-class:: horizbuttons-tip-xxl
+:Version:
+   |release|
 
-- :ref:`This manual has moved <t3coreapi:services>`
+:Language:
+   en
 
-*Older versions*
-(`v8.7 </typo3cms/Typo3ServicesReference/8.7/>`__,
-`v7.6 </typo3cms/Typo3ServicesReference/7.6/>`__):
-Please refer to "Related Links" in the lower left corner of the page.
+:Author:
+   TYPO3 contributors
 
+:License:
+   This document is published under the
+   `Open Publication License <https://www.opencontent.org/openpub/>`__.
 
+:Rendered:
+   |today|
 
+----
+
+This document describes the usage and API of the services available in TYPO3
+CMS.
